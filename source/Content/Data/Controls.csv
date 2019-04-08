@@ -1,0 +1,29 @@
+Name,m_tDisplayName,m_eInputMethod
+C_Back,"Back",1
+C_Interact,"Interact",1
+C_Inventory,"Inventory",1
+C_Hotkey_1,"Hotkey 1",1
+C_Hotkey_2,"Hotkey 2",1
+C_Hotkey_3,"Hotkey 3",1
+C_Hotkey_4,"Hotkey 4",1
+C_Drop,"Drop",1
+K_Move_Forward,"Move Forward",0
+K_Move_Back,"Move Back",0
+K_Move_Right,"Move Right",0
+K_Move_Left,"Move Left",0
+K_Look_Forward,"Look Forward",0
+K_Look_Back,"Look Back",0
+K_Look_Right,"Look Right",0
+K_Look_Left,"Look Left",0
+K_Escape,"Escape",0
+K_Interact,"Interact",0
+K_Inventory,"Inventory",0
+K_Navigate_Down,"Navigate Down",0
+K_Navigate_Left,"Navigate Left",0
+K_Navigate_Right,"Navigate Right",0
+K_Navigate_Up,"Navigate Up",0
+K_Hotkey_1,"Hotkey 1",0
+K_Hotkey_2,"Hotkey 2",0
+K_Hotkey_3,"Hotkey 3",0
+K_Hotkey_4,"Hotkey 4",0
+K_Drop,"Drop",0

@@ -1,0 +1,10 @@
+Name,m_iHealth,m_iDamage,m_iAttackSpeed,m_iMovementSpeed,m_iExpReward
+Player,100,10,10,600,0
+Melee,10,10,10,10,1
+Ranged,10,10,10,10,1
+Landmine,10,10,10,10,1
+Sword,40,15,10,10,3
+Ghost,30,15,10,10,2
+Wraith,30,10,10,300,2
+Knight,100,10,10,10,5
+Reaper,100,10,10,10,5

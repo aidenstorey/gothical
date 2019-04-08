@@ -1,0 +1,5 @@
+Name,m_fModifierMin,m_fModifierMax,m_iLevelIncrease
+Health,10,50,10
+Damage,10,50,10
+AttackSpeed,10,50,10
+MovementSpeed,10,50,10
